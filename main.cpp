@@ -67,5 +67,6 @@ int main()
 
     std::cout << "end: " << std::endl;
     show_arr(arr, arr_size);
+    delete[] arr;
     return 0;
 }

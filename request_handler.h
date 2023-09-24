@@ -1,6 +1,5 @@
 #pragma once
 
-#include "block_queue.h"
 #include "thread_pool.h"
 
 class RequestHandler {
